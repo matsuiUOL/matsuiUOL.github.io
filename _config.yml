@@ -22,7 +22,7 @@ repository               : "matsuiUOL/matsuiUOL.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_matsui_3.jpg"
+  avatar           : "profile.png"
   name             : "Haruki Matsui"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at Kyoto University"
